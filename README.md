@@ -2,6 +2,8 @@
 
 A modern, responsive portfolio website built with Next.js 15, TypeScript, Tailwind CSS, and PWA capabilities. Features a clean, professional design showcasing skills, projects, and experience.
 
+🚀 **Live Portfolio:** [https://swarajnaik.github.io/Findrome/](https://swarajnaik.github.io/Findrome/)
+
 ![Portfolio Preview](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.2-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.3-38B2AC?style=for-the-badge&logo=tailwind-css)
